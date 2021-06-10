@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariusz22p)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dariusz22p)](https://git.io/streak-stats)
 
 
 
 <!--
-**dariusz22p/dariusz22p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariusz22p)](https://github.com/anuraghazra/github-readme-stats)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+
+
 
 
 Here are some ideas to get you started:
@@ -18,9 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
 
 -->
 
