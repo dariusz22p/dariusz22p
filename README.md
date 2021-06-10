@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariusz22p)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dariusz22p)](https://git.io/streak-stats)
 
 
 
@@ -18,9 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
 
 -->
 
-
-### ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
